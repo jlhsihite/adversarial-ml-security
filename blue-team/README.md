@@ -101,4 +101,3 @@ Detailed analysis available in: `blue-team-report.pdf`
 ---
 
 **Next Step:** Run Red Team evaluation to test defense robustness against adversarial attacks.
-```
