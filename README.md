@@ -44,10 +44,7 @@ The project implements a **Blue Team vs Red Team** methodology:
 
 
 **Note:** Datasets are not included in repository.
-**See data/README.md for:**
-- Complete list of required files
-- Data format specifications
-- Instructions for running with your own data
+See data/README.md for instructions for running with your own data.
 
 ---
 
@@ -81,16 +78,19 @@ jupyter notebook red-team/red-team.ipynb
 ## 📁 Repository Structure
 ```
 adversarial-ml-security/
+├── .gitignore                      
 ├── README.md                       
+├── requirements.txt                
 ├── blue-team/
 │   ├── README.md                   
 │   ├── blue-team.ipynb             
 │   └── blue-team-report.pdf        
-├── red-team/
-│   ├── README.md                   
-│   ├── red-team.ipynb              
-│   └── red-team-report.pdf         
-├── requirements.txt                
+├── data/
+│   └── README.md                   
+└── red-team/
+    ├── README.md                   
+    ├── red-team.ipynb              
+    └── red-team-report.pdf         
 ```
 ---
 
