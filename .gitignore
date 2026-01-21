@@ -1,0 +1,11 @@
+# Data files
+*.pt
+*.pkl
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Results
+results/
