@@ -1,6 +1,6 @@
-# Blue Team Task
+# Blue Team Task: Anomaly and Out-Of-Distribution (OOD) Detection
 
-Implementation of three detection mechanisms to identify anomalous and out-of-distribution inputs before they compromise the ML training pipeline.
+Implementation of three detection mechanisms to identify anomalous and OOD inputs before they compromise the ML training pipeline.
 
 ## 🛡️ Detection Systems
 
